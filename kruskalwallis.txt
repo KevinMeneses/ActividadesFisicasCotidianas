@@ -1,0 +1,16 @@
+kruskal wallis si no es parametrica
+kolmogorov smirnov si es parametrica
+
+determinar si una variable es significativa para determinar una actividad determinada
+separar la variable en 2 
+
+ej determinar act1 selecciona los componentes (valores) de la variable que pertenecen a la actividad 1 y los que no
+y utilizamos los metodos estadisticos, debido a los tamaños todos los debe suponer no parametricos *(kruskal wallis)
+
+Kruskal wallis h0=2 componentes provienen de la misma poblacion
+probabilidad de que la mediana de los datos resaltados pertenezcan a la misma poblacion que la mediana del resto de datos(pertenecen a la misma poblacion)
+significancia = 0.05 (probabilidad de que la diferencia entre las dos mediana sea debido al azar)
+si no es igual la poblacion entonces la variable es significativa
+
+Probar cada una de las variables para las 19 actvidades si son significativas o no de cada uno de los 7 datasets
+Los resultados de kw seran una tabla con la col1 es las actividades y de la col2 en adelante cada una de las variables dependiendo el dataset
