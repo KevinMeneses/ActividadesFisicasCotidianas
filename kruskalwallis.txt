@@ -10,7 +10,7 @@ y utilizamos los metodos estadisticos, debido a los tamaños todos los debe supo
 Kruskal wallis h0=2 componentes provienen de la misma poblacion
 probabilidad de que la mediana de los datos resaltados pertenezcan a la misma poblacion que la mediana del resto de datos(pertenecen a la misma poblacion)
 significancia = 0.05 (probabilidad de que la diferencia entre las dos mediana sea debido al azar)
-si no es igual la poblacion entonces la variable es significativa
+si no es igual la poblacion entonces la variable es significativa ....
 
 Probar cada una de las variables para las 19 actvidades si son significativas o no de cada uno de los 7 datasets
 Los resultados de kw seran una tabla con la col1 es las actividades y de la col2 en adelante cada una de las variables dependiendo el dataset
