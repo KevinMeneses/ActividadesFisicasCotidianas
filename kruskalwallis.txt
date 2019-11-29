@@ -2,7 +2,7 @@ kruskal wallis si no es parametrica
 kolmogorov smirnov si es parametrica
 
 determinar si una variable es significativa para determinar una actividad determinada
-separar la variable en 2 
+separar la variable en 2 ....
 
 ej determinar act1 selecciona los componentes (valores) de la variable que pertenecen a la actividad 1 y los que no
 y utilizamos los metodos estadisticos, debido a los tamaños todos los debe suponer no parametricos *(kruskal wallis)
